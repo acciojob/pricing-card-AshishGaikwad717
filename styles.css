@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+img{
+	width:200px;
+	height:150px;
+	padding:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.container{
+	background-color:lightgray;
+	width:240px;
+	text-align:center;
+	box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+button{
+	padding:10px;
+	background-color:orangered;
+	border-radius:8px;
+	color:white;
+	border:none;
+	font-family:arial;
+	margin-bottom:10px;
+}
